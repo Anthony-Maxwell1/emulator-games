@@ -1,6 +1,14 @@
 [
   {
-    "name": "Pokemon Red",
+    "name": "pokemon-red",
     "image": "pokemon-red.png"
+  },
+  {
+    "name": "tetris",
+    "image": "tetris.jpg"
+  },
+  {
+    "name": "super-mario-land",
+    "image": "super-mario-land.jpg"
   }
 ]
