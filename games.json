@@ -1,14 +1,22 @@
 [
   {
-    "name": "pokemon-red",
-    "image": "pokemon-red.png"
+    "name": "Pokemon Red",
+    "image": "pokemon-red.png",
+    "console": "GameBoy [.gb]"
   },
   {
-    "name": "tetris",
-    "image": "tetris.jpg"
+    "name": "Tetris",
+    "image": "tetris.jpg",
+    "console": "GameBoy [.gb]"
   },
   {
-    "name": "super-mario-land",
-    "image": "super-mario-land.jpg"
+    "name": "Super Mario Land",
+    "image": "super-mario-land.jpg",
+    "console": "GameBoy [.gb]"
+  },
+  {
+    "name": "Super Mario Sunshine",
+    "image": "super-mario-sunshine.jpg",
+    "console": "GameCube [.rvs]"
   }
 ]
