@@ -18,5 +18,10 @@
     "name": "Super Mario Sunshine",
     "image": "super-mario-sunshine.jpg",
     "console": "GameCube [.rvz]"
+  },
+  {
+    "name": "Super Mario 64",
+    "image": "super-mario-64.jpg",
+    "console": "N64 [.z64]"
   }
 ]
